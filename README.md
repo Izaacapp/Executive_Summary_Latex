@@ -33,7 +33,7 @@
   </p>
 </div>
 
----
+
 
 <details>
   <summary>Table of Contents</summary>
@@ -50,14 +50,14 @@
   </ol>
 </details>
 
----
+
 
 ## About The Project
 
 This project is a LaTeX-based executive summary template. It was initially developed in Overleaf but later adapted for local compilation using **LuaLaTeX** and **XeLaTeX** to avoid Overleaf's timeout limitations. The template supports custom fonts and styles, ensuring professional-quality output.
 
 
----
+
 
 ## Features
 
@@ -67,7 +67,7 @@ This project is a LaTeX-based executive summary template. It was initially devel
 - Easy configuration for local compilation.
 
 
----
+
 
 ## Installation and Setup
 
@@ -78,7 +78,7 @@ This project is a LaTeX-based executive summary template. It was initially devel
 3. **Visual Studio Code**: Install [Visual Studio Code](https://code.visualstudio.com/).
 4. **VS Code Extensions**: Install the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension.
 
----
+
 
 ### Installation Steps
 
@@ -117,7 +117,7 @@ This project is a LaTeX-based executive summary template. It was initially devel
 
 
 
----
+
 
 ## Configuration
 
@@ -163,7 +163,7 @@ Update the `settings.json` file in Visual Studio Code with the following configu
 
 
 
----
+
 
 ## Usage
 
@@ -176,7 +176,7 @@ Update the `settings.json` file in Visual Studio Code with the following configu
 3. Edit `executive_summary.tex` and `bibliography.bib` to customize the template.
 4. Compile the project using `LuaLaTeX` or `XeLaTeX`.
 
----
+
 
 ## Contributing
 
@@ -184,7 +184,7 @@ Contributions are welcome! Fork the repository, create a feature branch, and sub
 
 
 
----
+
 
 ## License
 
@@ -192,7 +192,7 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 
 
 
----
+
 
 ## Contact
 
@@ -202,7 +202,7 @@ Izaac Plambeck
 
 
 
----
+
 
 ## Acknowledgments
 
@@ -211,7 +211,7 @@ Izaac Plambeck
 - [TeX Live](https://www.tug.org/texlive/)
 - [MacTeX](https://www.tug.org/mactex/)
 
----
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/badge/Contributors-violet?style=for-the-badge
