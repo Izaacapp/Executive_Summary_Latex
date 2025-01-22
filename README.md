@@ -216,17 +216,17 @@ Izaac Plambeck
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Izaacapp/Executive_Summary_Latex.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/badge/Contributors-violet?style=for-the-badge
 [contributors-url]: https://github.com/Izaacapp/Executive_Summary_Latex/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Izaacapp/Executive_Summary_Latex.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/badge/Forks-green?style=for-the-badge
 [forks-url]: https://github.com/Izaacapp/Executive_Summary_Latex/network/members
-[stars-shield]: https://img.shields.io/github/stars/Izaacapp/Executive_Summary_Latex.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/badge/Stars-gold?style=for-the-badge
 [stars-url]: https://github.com/Izaacapp/Executive_Summary_Latex/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Izaacapp/Executive_Summary_Latex.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/badge/Issues-red?style=for-the-badge
 [issues-url]: https://github.com/Izaacapp/Executive_Summary_Latex/issues
 [license-shield]: https://img.shields.io/github/license/Izaacapp/Executive_Summary_Latex.svg?style=for-the-badge
 [license-url]: https://github.com/Izaacapp/Executive_Summary_Latex/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/izaac-plambeck/
 
 ---
