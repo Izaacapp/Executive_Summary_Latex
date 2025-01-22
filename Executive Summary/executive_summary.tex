@@ -2,10 +2,9 @@
 \documentclass[11pt,a4paper,twocolumn]{article}
 
 % Required Packages
-\usepackage[utf8]{inputenc}
+
 \usepackage[english]{babel}
 \usepackage[T1]{fontenc}
-\usepackage[usefilenames,DefaultFeatures={Ligatures=Common}]{plex-otf}
 \usepackage{fontspec}
 \usepackage{graphicx}
 \usepackage{float} % To control figure placement with [H]
@@ -17,6 +16,7 @@
 \usepackage{titling}
 \usepackage{microtype}
 \usepackage{balance}
+\usepackage{bookmark}
 \bibliographystyle{plain}
 
 % Font Configurations
@@ -30,13 +30,12 @@
 \titleformat{\subsection}[runin]{\bfseries\ttfamily}{\thesubsection}{0.5em}{} % IBM Plex Mono for subsections
 \titlespacing*{\subsection}{0pt}{1em}{0.5em}
 \setlength{\droptitle}{-1cm} % Adjust title position
-\raggedbottom % Prevent uneven stretching
+\raggedbottom% Prevent uneven stretching
 
 % Document Information
 \title{\ttfamily Executive Summary: Addressing the Challenges of Server Virtualization} % IBM Plex Mono for title
 \author{\sffamily Izaac Plambeck \\ (SysAdmin)} % IBM Plex Sans for author
 \date{\sffamily January 19, 2025} % IBM Plex Sans for manually set date
-
 \begin{document}
 
 % Title
@@ -55,7 +54,7 @@ As the system administrator for our organization, tasked with evaluating the fea
     \centering
     \includegraphics[width=0.8\linewidth]{novmsprawl.png}
     \caption{\sffamily Illustration of Virtual Machine (VM) Sprawl Costing Us Money} % IBM Plex Sans for figure caption
-    \label{fig:vm_sprawl}
+
 \end{figure}
 
 \section{What is VM Sprawl?}
