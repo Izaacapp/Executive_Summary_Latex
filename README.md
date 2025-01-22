@@ -56,7 +56,6 @@
 
 This project is a LaTeX-based executive summary template. It was initially developed in Overleaf but later adapted for local compilation using **LuaLaTeX** and **XeLaTeX** to avoid Overleaf's timeout limitations. The template supports custom fonts and styles, ensuring professional-quality output.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -67,7 +66,6 @@ This project is a LaTeX-based executive summary template. It was initially devel
 - Visual Studio Code integration via the `latex-workshop` extension.
 - Easy configuration for local compilation.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -117,7 +115,7 @@ This project is a LaTeX-based executive summary template. It was initially devel
    lualatex --version
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ---
 
@@ -163,7 +161,7 @@ Update the `settings.json` file in Visual Studio Code with the following configu
 ]
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ---
 
@@ -184,7 +182,7 @@ Update the `settings.json` file in Visual Studio Code with the following configu
 
 Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ---
 
@@ -192,7 +190,7 @@ Contributions are welcome! Fork the repository, create a feature branch, and sub
 
 Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ---
 
@@ -202,7 +200,7 @@ Izaac Plambeck
 [Tweet me](https://x.com/Izaacapp)  
 [Email me](mailto:izaacap@gmail.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ---
 
@@ -229,5 +227,4 @@ Izaac Plambeck
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/izaac-plambeck/
 
----
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
