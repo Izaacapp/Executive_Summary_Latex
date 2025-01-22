@@ -221,7 +221,7 @@ Izaac Plambeck
 [linkedin-url]: https://www.linkedin.com/in/izaac-plambeck/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-·
-<a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-·
-<a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+
+<p align="right"> <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+
+<p align="right"> <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
