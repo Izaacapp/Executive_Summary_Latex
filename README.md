@@ -173,15 +173,6 @@ Update the `settings.json` file in Visual Studio Code with the following configu
 Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.
 
 
-
-
-
-## License
-
-Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
-
-
-
 ## Acknowledgments
 
 - [Overleaf](https://www.overleaf.com)
