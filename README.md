@@ -186,11 +186,24 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 
 ## Contact
 
-Izaac Plambeck  
-[Tweet me](https://x.com/Izaacapp)  
-[Email me](mailto:izaacap@gmail.com)
-
-
+<div align="center" style="margin-top: 30px;">
+  <p><strong style="font-size:24px;">Contact me:</strong></p>
+  <a href="https://www.buymeacoffee.com/Izaacapp" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/buymeacoffee-color.svg" width="48" height="48" alt="Buy Me a Coffee">
+  </a>
+  <a href="mailto:izaacapp@gmail.com" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/gmail-color.svg" width="48" height="48" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/izaacapp" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/instagram-color.svg" width="48" height="48" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/izaacapp" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/linkedin-color.svg" width="48" height="48" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/Izaacapp" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/x-color.svg" width="48" height="48" alt="X (Twitter)">
+  </a>
+</div>
 
 
 
