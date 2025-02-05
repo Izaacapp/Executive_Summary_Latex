@@ -217,7 +217,7 @@ Izaac Plambeck
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/izaac-plambeck/
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <p align="right"> <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
 
