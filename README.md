@@ -191,10 +191,10 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
   <a href="https://www.buymeacoffee.com/Izaacapp" target="_blank">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/buymeacoffee-color.svg" width="48" height="48" alt="Buy Me a Coffee">
   </a>
-  <a href="mailto:izaacapp@gmail.com" target="_blank">
+  <a href="mailto:izaacap@gmail.com" target="_blank">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/gmail-color.svg" width="48" height="48" alt="Gmail">
   </a>
-  <a href="https://www.instagram.com/izaacapp" target="_blank">
+  <a href="https://www.instagram.com/izaacplambeck" target="_blank">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/instagram-color.svg" width="48" height="48" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/izaacapp" target="_blank">
