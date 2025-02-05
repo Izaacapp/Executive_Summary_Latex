@@ -20,9 +20,6 @@
   <p align="center">
     A customizable LaTeX template for professional executive summaries, with support for LuaLaTeX and XeLaTeX.
     <br />
-    <a href="https://github.com/Izaacapp/Executive_Summary_Latex"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
   </p>
 </div>
 
