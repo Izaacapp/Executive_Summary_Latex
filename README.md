@@ -175,10 +175,14 @@ Contributions are welcome! Fork the repository, create a feature branch, and sub
 
 ## Acknowledgments
 
-- [Overleaf](https://www.overleaf.com)
-- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
-- [TeX Live](https://www.tug.org/texlive/)
-- [MacTeX](https://www.tug.org/mactex/)
+This project was made possible with the help of the following LaTeX-related tools:
+
+- **[Overleaf](https://www.overleaf.com)** – An online LaTeX editor that facilitates collaborative document preparation.
+- **[LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)** – A Visual Studio Code extension that enhances LaTeX editing and compilation.
+- **[TeX Live](https://www.tug.org/texlive/)** – A comprehensive LaTeX distribution for managing TeX system packages.
+- **[MacTeX](https://www.tug.org/mactex/)** – A LaTeX distribution specifically designed for macOS users.
+
+Special thanks to the developers and maintainers of these tools for making LaTeX workflows more accessible and efficient.
 
 ##
 
