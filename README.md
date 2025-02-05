@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Izaacapp/Executive_Summary_Latex">
-    <img src="/Users/beck/Documents/github/Executive_Summary_Latex/icons/binary.png" alt="Logo" width="80" height="80">
+    <img src="/icons/binary.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Executive Summary LaTeX Template</h3>
