@@ -207,13 +207,13 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 
 <p align="right">
   <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=bug&template=bug-report---.md">
-    <img src="icons/svg_403051.svg" alt="Report Bug" width="24" height="24">
+    <img src="icons/svg_403051.svg" alt="Report Bug" width="32" height="32">
   </a>
   <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=enhancement&template=feature-request---.md">
-    <img src="icons/svg_440954.svg" alt="Request Feature" width="24" height="24">
+    <img src="icons/svg_440954.svg" alt="Request Feature" width="32" height="32">
   </a>
   <a href="#readme-top">
-    <img src="icons/svg_404237.svg" alt="Back to Top" width="24" height="24">
+    <img src="icons/svg_404237.svg" alt="Back to Top" width="32" height="32">
   </a>
 </p>
 
