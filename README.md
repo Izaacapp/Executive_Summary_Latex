@@ -205,10 +205,10 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/izaac-plambeck/
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; padding: 10px; flex-wrap: wrap; position: relative;">
-  
-  <!-- Contact Me Icons (Centered) -->
-  <div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 10px;">
+
+  <!-- Contact Me + Social Icons (Centered) -->
+  <div style="display: flex; align-items: center; gap: 10px; margin: 0 auto;">
     <p style="font-size: 24px; margin: 0; font-weight: bold;">Contact me:</p>
     <a href="https://www.buymeacoffee.com/Izaacapp" target="_blank">
       <img src="https://github.com/Izaacapp/Izaacapp/blob/main/buymeacoffee-color.svg" width="48" height="48" alt="Buy Me a Coffee">
@@ -227,8 +227,8 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
     </a>
   </div>
 
-  <!-- Right Aligned Icons (Absolute Right) -->
-  <div style="position: absolute; right: 10px; display: flex; align-items: center; gap: 10px;">
+  <!-- Right-Aligned Icons -->
+  <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=bug&template=bug-report---.md">
       <img src="icons/svg_403051.svg" alt="Report Bug" width="32" height="32">
     </a>
