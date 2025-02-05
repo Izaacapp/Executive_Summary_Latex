@@ -189,7 +189,7 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 - [TeX Live](https://www.tug.org/texlive/)
 - [MacTeX](https://www.tug.org/mactex/)
 
-
+##
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/badge/Contributors-violet?style=for-the-badge
