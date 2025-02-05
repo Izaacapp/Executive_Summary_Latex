@@ -205,33 +205,38 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/izaac-plambeck/
 
-<p align="right">
-  <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=bug&template=bug-report---.md">
-    <img src="icons/svg_403051.svg" alt="Report Bug" width="32" height="32">
-  </a>
-  <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=enhancement&template=feature-request---.md">
-    <img src="icons/svg_440954.svg" alt="Request Feature" width="32" height="32">
-  </a>
-  <a href="#readme-top">
-    <img src="icons/svg_404237.svg" alt="Back to Top" width="32" height="32">
-  </a>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  
+  <!-- Social Icons on the Left -->
+  <div style="display: flex; gap: 10px;">
+    <a href="https://www.buymeacoffee.com/Izaacapp" target="_blank">
+      <img src="https://github.com/Izaacapp/Izaacapp/blob/main/buymeacoffee-color.svg" width="48" height="48" alt="Buy Me a Coffee">
+    </a>
+    <a href="mailto:izaacap@gmail.com" target="_blank">
+      <img src="https://github.com/Izaacapp/Izaacapp/blob/main/gmail-color.svg" width="48" height="48" alt="Gmail">
+    </a>
+    <a href="https://www.instagram.com/izaacplambeck" target="_blank">
+      <img src="https://github.com/Izaacapp/Izaacapp/blob/main/instagram-color.svg" width="48" height="48" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/izaac-plambeck" target="_blank">
+      <img src="https://github.com/Izaacapp/Izaacapp/blob/main/linkedin-color.svg" width="48" height="48" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/Izaacapp" target="_blank">
+      <img src="https://github.com/Izaacapp/Izaacapp/blob/main/x-color.svg" width="48" height="48" alt="X (Twitter)">
+    </a>
+  </div>
 
-<div align="center" style="margin-top: 30px;">
-  <p><strong style="font-size:24px;">Contact me:</strong></p>
-  <a href="https://www.buymeacoffee.com/Izaacapp" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/buymeacoffee-color.svg" width="48" height="48" alt="Buy Me a Coffee">
-  </a>
-  <a href="mailto:izaacap@gmail.com" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/gmail-color.svg" width="48" height="48" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/izaacplambeck" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/instagram-color.svg" width="48" height="48" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/izaac-plambeck" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/linkedin-color.svg" width="48" height="48" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Izaacapp" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/x-color.svg" width="48" height="48" alt="X (Twitter)">
-  </a>
+  <!-- Bug, Feature, and Back to Top Icons on the Right -->
+  <div style="display: flex; gap: 10px;">
+    <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=bug&template=bug-report---.md">
+      <img src="icons/svg_403051.svg" alt="Report Bug" width="32" height="32">
+    </a>
+    <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=enhancement&template=feature-request---.md">
+      <img src="icons/svg_440954.svg" alt="Request Feature" width="32" height="32">
+    </a>
+    <a href="#readme-top">
+      <img src="icons/svg_404237.svg" alt="Back to Top" width="32" height="32">
+    </a>
+  </div>
+
 </div>
