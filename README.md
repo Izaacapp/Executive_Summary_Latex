@@ -184,7 +184,7 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 
 
 
-## Contact
+
 
 <div align="center" style="margin-top: 30px;">
   <p><strong style="font-size:24px;">Contact me:</strong></p>
@@ -197,7 +197,7 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
   <a href="https://www.instagram.com/izaacplambeck" target="_blank">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/instagram-color.svg" width="48" height="48" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/izaacapp" target="_blank">
+  <a href="https://www.linkedin.com/in/izaac-plambeck" target="_blank">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/linkedin-color.svg" width="48" height="48" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/Izaacapp" target="_blank">
