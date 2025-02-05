@@ -182,31 +182,6 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 
 
 
-
-
-
-
-<div align="center" style="margin-top: 30px;">
-  <p><strong style="font-size:24px;">Contact me:</strong></p>
-  <a href="https://www.buymeacoffee.com/Izaacapp" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/buymeacoffee-color.svg" width="48" height="48" alt="Buy Me a Coffee">
-  </a>
-  <a href="mailto:izaacap@gmail.com" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/gmail-color.svg" width="48" height="48" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/izaacplambeck" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/instagram-color.svg" width="48" height="48" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/izaac-plambeck" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/linkedin-color.svg" width="48" height="48" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Izaacapp" target="_blank">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/x-color.svg" width="48" height="48" alt="X (Twitter)">
-  </a>
-</div>
-
-
-
 ## Acknowledgments
 
 - [Overleaf](https://www.overleaf.com)
@@ -235,3 +210,22 @@ Distributed under the MIT License. See `MIT-LICENSE.txt` for details.
 <p align="right"> <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
 
 <p align="right"> <a href="https://github.com/Izaacapp/Executive_Summary_Latex/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+
+<div align="center" style="margin-top: 30px;">
+  <p><strong style="font-size:24px;">Contact me:</strong></p>
+  <a href="https://www.buymeacoffee.com/Izaacapp" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/buymeacoffee-color.svg" width="48" height="48" alt="Buy Me a Coffee">
+  </a>
+  <a href="mailto:izaacap@gmail.com" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/gmail-color.svg" width="48" height="48" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/izaacplambeck" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/instagram-color.svg" width="48" height="48" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/izaac-plambeck" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/linkedin-color.svg" width="48" height="48" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/Izaacapp" target="_blank">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/x-color.svg" width="48" height="48" alt="X (Twitter)">
+  </a>
+</div>
