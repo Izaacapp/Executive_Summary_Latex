@@ -17,7 +17,7 @@ If you identify any security vulnerabilities in my projects, repositories, or re
    - The security researcher will be updated on the status of the issue.  
    - Proper credit will be given for responsible disclosures where applicable. 
 
-### Disclosure Policy
+## Disclosure Policy
 
 Please do not publicly disclose the vulnerability until a fix is released!   
 Once a fix has been implemented or the issue has been reviewed and closed, disclosure is permitted.
