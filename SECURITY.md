@@ -2,7 +2,7 @@
 
 If you identify any security vulnerabilities in my projects, repositories, or related code, please report them promptly to ensure system integrity and user protection.
 
-### How to Report
+## How to Report
 1. **Contact privately using one of the following methods**:
    - OPSEC: [Contact](mailto:Izaacap@gmail.com)
    - Report a Vulnerability: [You've Been Breached](https://github.com/Izaacapp/Executive_Summary_Latex/security/advisories)
