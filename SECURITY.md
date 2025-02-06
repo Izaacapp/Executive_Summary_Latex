@@ -6,7 +6,7 @@ If you identify any security vulnerabilities in my projects, repositories, or re
 
 ### How to Report
 1. **Contact privately** using one of the following methods:
-   - ** OPSEC: ** - [Contact](mailto:Izaacap@gmail.com)
+   - **OPSEC**: - [Contact](mailto:Izaacap@gmail.com)
    - ** GitHub Security: **Report a Vulnerability** – [You've Been Breached](https://github.com/Izaacapp/Executive_Summary_Latex/security/advisories)**
 
 2. **Describe the vulnerability** in detail.  
@@ -26,4 +26,3 @@ Once a fix has been implemented or the issue has been reviewed and closed, you a
 Thank you for helping keeping the projects/repositories secure!
 
 
-**- GitHub Security: **"You've Been Breached"** – [Report a Vulnerability]
