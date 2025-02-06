@@ -1,6 +1,4 @@
-# Security Policy
-
-## Reporting a Vulnerability
+# Reporting a Vulnerability
 
 If you identify any security vulnerabilities in my projects, repositories, or related code, please report them promptly to ensure system integrity and user protection.
 
