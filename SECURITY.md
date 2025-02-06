@@ -21,8 +21,7 @@ If you identify any security vulnerabilities in my projects, repositories, or re
 
 ### Disclosure Policy
 **Please do not publicly disclose the vulnerability until a fix is released!**   
-Once a fix has been implemented or the issue has been reviewed and closed, you are free to disclose it.
+Once a fix has been implemented or the issue has been reviewed and closed, disclosure is permitted.
 
-Thank you for helping keeping the projects/repositories secure!
-
+Thank you for helping to keep this project secure!  
 
