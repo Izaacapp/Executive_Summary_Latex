@@ -14,14 +14,13 @@ If you identify any security vulnerabilities in my projects, repositories, or re
    - If you have a potential fix, feel free to share or summarize it.
 
 3. **Response & Resolution**:  
-- Reported vulnerabilities will be **evaluated** to determine their **triage**.  
-- If necessary, a **fix or mitigation steps** will be implemented as soon as possible.  
-- The **security researcher** will be **updated on the status** of the issue.  
-- Proper credit will be given for **responsible disclosures** where applicable. 
+- Reported vulnerabilities will be evaluated to determine their triage.  
+- If necessary, a fix or mitigation steps will be implemented as soon as possible.  
+- The security researcher will be updated on the status of the issue.  
+- Proper credit will be given for responsible disclosures where applicable. 
 
 ### Disclosure Policy
 Please do not publicly disclose the vulnerability until a fix is released!   
 Once a fix has been implemented or the issue has been reviewed and closed, disclosure is permitted.
-
-Thank you for helping to keep this project secure!  
+Thank you for helping to keep this project secure.  
 
