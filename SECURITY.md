@@ -2,12 +2,12 @@
 
 ## Reporting a Vulnerability
 
-If there are any vulnerabilities in **Executive_Summary_Latex**, please report them immediately to help us maintain the security of this project.
+If you identify any security vulnerabilities in my projects, repositories, or related code, please report them promptly to ensure system integrity and user protection.
 
 ### How to Report
-1. **Contact us privately** using one of the following methods:
-   - **Email:** [Izaacap@gmail.com](mailto:Izaacap@gmail.com)
-   - **GitHub Support Contact:** [Support Section](https://github.com/Izaacapp/Executive_Summary_Latex#support)
+1. **Contact privately** using one of the following methods:
+   **- Email: ** [Izaacap@gmail.com](mailto:Izaacap@gmail.com)
+   **- GitHub Security: **"You've Been Breached"** – [Report a Vulnerability](https://github.com/Izaacapp/Executive_Summary_Latex/security/advisories)**
 
 2. **Describe the vulnerability** in detail.  
    - Include steps to reproduce the issue, affected files, and any relevant logs.  
@@ -20,7 +20,7 @@ If there are any vulnerabilities in **Executive_Summary_Latex**, please report t
    - Proper credit will be given for responsible disclosures.
 
 ### Disclosure Policy
-🚨 **Please do not publicly disclose the vulnerability until a fix is released!** 🚨  
+**Please do not publicly disclose the vulnerability until a fix is released!**   
 Once a fix has been implemented or the issue has been reviewed and closed, you are free to disclose it.
 
-Thank you for helping keep **Executive_Summary_Latex** secure!
+Thank you for helping keeping the projects/repositories secure!
